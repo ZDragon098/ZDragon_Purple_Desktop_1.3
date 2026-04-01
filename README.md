@@ -15,9 +15,9 @@ https://github.com/user-attachments/assets/766e3cc1-1c4c-4a6b-8d84-664f19840062
 ## 🛠 Yêu cầu hệ thống và app cần tải
 * **OS:** Windows 11.
 * **Ram:** Tối thiểu *8GB*.
-* **1. Rainmeter:** Phiên bản 4.5 trở lên.
-* **2. Windhawk:** Để tùy biến thanh Taskbar.
-* **3. Lively Wallpaper:** Để làm hình nền động.
+* **1. Rainmeter:** Phiên bản 4.5 trở lên. *Link: *https://www.rainmeter.net/
+* **2. Windhawk:** Để tùy biến thanh Taskbar. *Link: *https://windhawk.net/
+* **3. Lively Wallpaper:** Để làm hình nền động.*Tải trên MS store*
 * **4. Tải extension WebNowPlaying vể trình duyệt (Khuyên dùng Chrome):** Để widget Music lấy hình nền video Youtube
 
 ## 🚀 Cách cài đặt
